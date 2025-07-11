@@ -352,7 +352,7 @@ export default function Home() {
       <div className="relative min-h-screen w-full overflow-hidden">
         <video
           className="absolute top-0 left-0 w-full h-full object-cover z-0"
-          src="/BeefSopoudring.mp4"
+          src="https://res.cloudinary.com/do4fi6vpx/video/upload/v1752230781/BeefSopoudring_ulxuyo.mp4"
           autoPlay
           loop
           muted
